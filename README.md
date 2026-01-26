@@ -4,7 +4,7 @@ for thai people
 มันเรียกว่า ExplorerPatcher ซึ่งสามารหาใน github หรือลิ้งที่แนบนี้
 https://github.com/valinet/ExplorerPatcher
 
-แล้วไปด้านสร้าง กด relaeses โหลดตัวล่าสุด ep_setup.exe แล้วลงเลย
+แล้วไปด้านขวา กด relaeses โหลดตัวล่าสุด ep_setup.exe แล้วลงเลย
 
 ถ้าอยากให้คลิกขวาที่ desktop เป็นแบบเดิม ให้ก๊อปคำสั่งนี้ไปวางใน cmd > enter  restart ทีนึง
 
