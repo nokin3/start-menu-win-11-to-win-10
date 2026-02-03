@@ -11,3 +11,7 @@ https://github.com/valinet/ExplorerPatcher
 reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
 
 แล้วทุกอย่างก็จะเป็นเหมือน window 10 ทั้ง start menu และ คลิกขวา desktop
+
+
+
+https://youtu.be/OMG7kuSJBm4
